@@ -30,10 +30,10 @@ struct BuiltInDc {
 
 #define IpV4 "voidgram.lol"
 #define IpV6 "voidgram.lol"
-#define IpV4Port 20443
-#define IpV4Port2 20443
-#define IpV6Port 20443
-#define IpV6Port2 20443
+#define IpV4Port 243
+#define IpV4Port2 443
+#define IpV6Port 443
+#define IpV6Port2 443
 const BuiltInDc kBuiltInDcs[] = {
 							{ 1, IpV4 , IpV4Port },
 							{ 2, IpV4 , IpV4Port },
